@@ -1,6 +1,6 @@
 {
   "name": "node-api-json-docs",
-  "version": "0.0.0",
+  "version": "0.10.32",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "Node's JSON API docs in a npm module",
   "repository": {

@@ -3,5 +3,9 @@
   "version": "0.0.0",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "Node's JSON API docs in a npm module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/node-api-json-docs.git"
+  },
   "license": "MIT"
 }
